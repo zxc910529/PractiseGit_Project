@@ -111,8 +111,6 @@
     把本地檔案推到Github(要先確定在本地中有ssh金鑰以及在Github中有正確設定ssh公鑰)
     
     cat ….:把公鑰內容複製到github設定
-    
-    ![image 17](https://github.com/user-attachments/assets/c56a1c51-54d7-465b-8290-4f14d65355d3)
 
     確定ssh能連上github
     
